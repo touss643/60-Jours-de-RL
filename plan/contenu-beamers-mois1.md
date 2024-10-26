@@ -162,4 +162,66 @@
 4. Encodage
 5. Vérification de la qualité
 
-[Suite dans la prochaine partie pour maintenir la clarté et la lisibilité. Souhaitez-vous que je continue avec le deuxième mois ?]
+### Jour 23 : Sélection des variables
+
+1. Critères de sélection des variables
+2. Tests de corrélation
+3. Importance des variables
+4. Réduction de dimensionnalité
+5. Impact sur la performance du modèle
+
+### Jour 24 : Gestion des données manquantes
+
+1. Types de données manquantes (MCAR, MAR, MNAR)
+2. Techniques de suppression
+3. Méthodes d'imputation simple
+4. Imputation multiple
+5. Validation des imputations
+
+### Jour 25 : Standardisation
+
+1. Centrage des variables
+2. Réduction des variables
+3. Z-score
+4. Min-Max scaling
+5. Impact sur l'interprétation
+
+### Jour 26 : Implémentation avec Python/R
+
+1. Librairies principales (sklearn/stats)
+2. Chargement des données
+3. Prétraitement
+4. Construction du modèle
+5. Évaluation et diagnostic
+
+### Jour 27 : Visualisation avancée
+
+1. Graphiques de diagnostic
+2. Visualisation des résidus
+3. Plots d'influence
+4. Graphiques de prédiction
+5. Outils de reporting
+
+### Jour 28 : Présentation des résultats
+
+1. Structure du rapport
+2. Choix des visualisations
+3. Interprétation des résultats
+4. Communication des limites
+5. Recommandations pratiques
+
+### Jour 29 : Projet pratique - Jour 1
+
+1. Définition du problème
+2. Exploration des données
+3. Préparation des données
+4. Choix des variables
+5. Plan d'analyse
+
+### Jour 30 : Projet pratique - Jour 2
+
+1. Construction du modèle
+2. Validation des hypothèses
+3. Optimisation du modèle
+4. Interprétation des résultats
+5. Présentation des conclusions
