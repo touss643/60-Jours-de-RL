@@ -6,8 +6,7 @@
 1. Définition de la régression linéaire
 2. Applications dans le monde réel
 3. Objectifs de la régression linéaire
-4. Types de problèmes résolus
-5. Différence avec les autres méthodes statistiques
+4. Différence avec les autres méthodes statistiques
 
 ### Jour 2 : Concepts statistiques fondamentaux
 1. Moyenne, médiane, mode
