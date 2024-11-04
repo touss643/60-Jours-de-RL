@@ -1,2 +1,0 @@
-# Quelques visualisations
-print("Hello")
